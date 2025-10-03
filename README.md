@@ -28,14 +28,6 @@
 
 ---
 
-## ✨ Milestones & Achievements
-- ✅ **Dean’s Lister** | Top 10% GPA  
-- 💼 **OJT at Liga ng mga Barangay – ICT Unit**  
-- 🏆 **DICT CTF Participant | GDSC Member – UIC Davao**  
-- 🏁 Built projects aligned with **UN SDGs** (Zero-Waste, Education, Clean Energy, Governance)
-
----
-
 ## 💬 Tagline
 **"Building purposeful tech for underserved communities."**
 
@@ -46,17 +38,11 @@
 - 🌱 Environmental Tech (Mangroves, Soil Mapping, Remote Sensing)  
 - 🧘 Mindfulness App (Tagalog & Bisaya support)  
 - 📚 Building VS Code extensions to assist teachers  
-- 🏳️‍🌈 LGBTQ+ Web3 initiatives in PH
+
 
 ---
 
-## 🔗 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com) _(add your real link)_  
-- 🐦 [Twitter](https://twitter.com) _(optional)_  
-- 🌍 Personal Website / OJT Blog (coming soon?)  
-- 💼 Email: **yourname@example.com**
 
----
 
 ## 🎨 Style
 > Professional with a purpose-driven, creative twist. Focused on community impact and building inclusive, scalable solutions.
