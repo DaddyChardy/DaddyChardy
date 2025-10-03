@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Richard Cubero
 
-🎓 **BS Computer Science Student @ NEMSU** (Graduating 2025)  
+🎓 **BS Computer Science Student @ NEMSU**
 💻 **Freelance AI-Powered Web Developer | Open Source Advocate**  
 🌱 Passionate about using technology for **local impact**, especially in **education, governance, and sustainability**.
 
