@@ -1,53 +1,44 @@
-# 👋 Hi, I'm Richard Cubero
-
-🎓 **BS Computer Science Student @ NEMSU**
-💻 **Freelance AI-Powered Web Developer | Open Source Advocate**  
-🌱 Passionate about using technology for **local impact**, especially in **education, governance, and sustainability**.
-
----
-
-## 🚀 Tech Stack & Skills
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend & DB:** Node.js, Firebase, Supabase, Python (Flask)
-- **AI/ML:** ChatGPT, Gemini, Google Earth Engine, LangChain, Pandas
-- **Dev Tools:** VS Code, GitHub, Postman, Replit, Figma
-- **Others:** SaaS Architecture, Odoo ERP (in training), GIS, Remote Sensing
+# 💫 About Me  
+🎯 Focused on enhancing my skills to land a job in the IT industry  
+👯‍♂️ Looking to collaborate with other developers in the community  
+🌱 Currently taking Cybersecurity courses  
+⚡ Fun fact: I like searching, discovering, and learning new things  
+✨ I enjoy listening to music 🎧 and watching anime  
 
 ---
 
-## 🌟 Featured Projects
-- 🧠 **Scholar's Guide (SG)** — Community-driven CET Reviewer App  
-  _Leveling the playing field for Filipino students_  
-  → _AI-generated questions from PDFs with a swipe-based UX_  
-- 🏫 **DepEd Tandag Chatbot** — For accessing public education data  
-- 🌾 **Smart Farming Education App** — Data-driven insights for rice growers in Barangay Kinabigtasan  
-- 🧾 **LGU Info LLM for Tandag City** — Efficient access to roles, responsibilities, and contact info of city officials  
-- ⚡ **SURSECO Power Outage App** — Real-time alerts based on NGCP updates  
-- 🛒 **POS SaaS for Sari-Sari Stores** — Simplifying sales tracking for local stores  
-- 🧪 **Heart Attack Risk Predictor** — ML-based health tool using vital sign inputs
+## 🌐 Socials  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/realchardyfor3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-cubero-598374230/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DaddyChardy)  
 
 ---
 
-## 💬 Tagline
-**"Building purposeful tech for underserved communities."**
+## 💻 Tech Stack  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
+![Glitch](https://img.shields.io/badge/Glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)  
 
 ---
 
-## 🎯 Interests
-- 🧠 AI for Local Government & Education  
-- 🌱 Environmental Tech (Mangroves, Soil Mapping, Remote Sensing)  
-- 🧘 Mindfulness App (Tagalog & Bisaya support)  
-- 📚 Building VS Code extensions to assist teachers  
-
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=DaddyChardy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=DaddyChardy&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyChardy&theme=radical&hide_border=false&layout=compact)  
 
 ---
 
-
-
-## 🎨 Style
-> Professional with a purpose-driven, creative twist. Focused on community impact and building inclusive, scalable solutions.
-
----
-
-### 🔁 Always open to collaborations — especially on open-source, AI, education, and climate tech projects!
-
+## ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
